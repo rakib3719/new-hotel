@@ -1,0 +1,15 @@
+{
+    "rewrites": [
+      {
+        "source": "/details/:id",
+        "destination": "/details/[id]"
+      },
+     
+      {
+        "source": "/blog-post/:id",
+        "destination": "/blog-post/[id]"
+      }
+  
+    ]
+  }
+  
