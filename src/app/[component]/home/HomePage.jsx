@@ -1,4 +1,5 @@
 
+import ImageCarousel from "../banner/Banner";
 import GalleryPage from "../GalleryPage/GalleryPage";
 import Map from "../Map/Map";
 import Banner from "./Banner";
@@ -11,7 +12,8 @@ import SpecialOffers from "./SpecialOffers";
 const HomePage = () => {
     return (
         <div className="">
-            <Banner />
+            {/* <Banner /> */}
+            <ImageCarousel/>
             <OurRooms/> 
             <RandomSection/>
             {/* <SpecialOffers/> */}
