@@ -47,6 +47,7 @@
 
 import ImageCarousel from "../banner/Banner";
 import Map from "../Map/Map";
+import Banner from "./Banner";
 import Facilities from "./Facilites";
 import HotelReservationSection from "./HotelReservation";
 import OurRooms from "./OurRooms";

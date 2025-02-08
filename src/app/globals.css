@@ -61,6 +61,16 @@ body {
   right: 1rem;
 }
 
+.clip-triangle {
+  margin-top:3px;
+  clip-path: polygon(0 4%, 0% 100%, 94% 100%);
+}
+.clip-triangle-left {
+  margin-top: 5px;
+  clip-path: polygon(100% 0, 0% 100%, 100% 100%);
+}
+
+
 @keyframes slideshow {
   0% { opacity: 0; }
   25% { opacity: 1; }
