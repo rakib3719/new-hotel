@@ -15,6 +15,7 @@ const HomePage = () => {
             {/* <Banner /> */}
             <ImageCarousel/>
             <OurRooms/> 
+            
             <RandomSection/>
             {/* <SpecialOffers/> */}
             <div>
