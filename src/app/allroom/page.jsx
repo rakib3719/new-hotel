@@ -1,6 +1,5 @@
 import React from 'react';
 import AllRooms from '../[component]/AllRooms/AllRooms';
-import axios from 'axios';
 
 
 // let getdata = async (params) => {

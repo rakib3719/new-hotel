@@ -3,9 +3,7 @@ import { usePathname } from "next/navigation";
 import React from "react";
 import {
   FaFacebookF,
-  FaTwitter,
-  FaInstagram,
-  FaLinkedinIn,
+
 } from "react-icons/fa";
 
 const Footer = () => {

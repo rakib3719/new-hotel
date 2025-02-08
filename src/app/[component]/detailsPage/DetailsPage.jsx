@@ -76,9 +76,7 @@
 
 
 import React, { useEffect, useState } from 'react';
-import ImageSlider from './ImageSlider';
-import RoomSature from './RoomSature';
-import ReservationCard from './ReservationCard';
+;
 import axios from 'axios';
 import Loader from '../loader/Loader';
 import RoomGallery from './RoomGallery';
