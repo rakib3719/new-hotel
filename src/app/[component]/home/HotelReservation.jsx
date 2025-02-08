@@ -1,6 +1,5 @@
 'use client'
 import React, { useState, useEffect } from "react";
-import Image from "next/image";
 import CountUp from "react-countup"; // Import CountUp
 import { useInView } from "react-intersection-observer"; // For intersection observer
 
